@@ -11,9 +11,8 @@ I love the design🖌️ too (Graphic design, web design). I regulary use Figma,
 * 📫 Contact me [@ismael2m.pro](https://twitter.com/TrustedSheriff)<br/>
 * 🌎 My Personal website [ismaelmmadi.xyz](https://ismaelmmadi.xyz)
 
-
+<!--
 ## My skills
-
 <p align="center">
   <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
 </p>
