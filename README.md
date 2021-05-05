@@ -17,7 +17,7 @@ Hi everyone !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gi
 I love the design🖌️ too (Graphic design, web design). I regulary use Figma, Photoshop and Illustrator to design my projects. 
 
 * 💼 Last job experience — React front developer at [Wavlive](https://www.wavlive.com) <br/>
-* 🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/>
+* 📄 Download my [Curriculum Vitae](https://drive.google.com/file/d/1vx28wTmpTxg-vrYkg1mmtAAR6KfpRW4Z/view?usp=sharing)<br/>
 * ✍🏻 I wrote dev articles on [dev.to](https://dev.to/viclafouch) <br/>
 * 📫 Contact me [@TrustedSheriff](https://twitter.com/TrustedSheriff)
 
