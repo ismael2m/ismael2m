@@ -13,7 +13,7 @@
 <br />
 
 
-Hi everyone !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Ismaël Mmadi](http://baptjack.fr/), un Développeur Full Stack 🚀 formé à l'école [O'clock](https://oclock.io/). <br />
+Hi everyone !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Ismaël Mmadi](http://baptjack.fr/), Javascript web developer based in Paris. <br />
 A côté du code, j'aime photographier la nature 🏞 et faire du skateboard 🛹.
 
 <!--
