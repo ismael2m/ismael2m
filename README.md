@@ -16,7 +16,7 @@ Hi everyone !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gi
 <br />
 I love the design🖌️ too (Graphic design, web design). I regulary use Figma, Photoshop and Illustrator to design my projects. 
 
-* 💼 Currently working at [Frichti](https://www.frichti.co) <br/>
+* 💼 Last job experience : [Wavlive](https://www.wavlive.com) <br/>
 * 🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/>
 * ✍🏻 I wrote dev articles on [dev.to](https://dev.to/viclafouch) <br/>
 * 📫 Contact me [@TrustedSheriff](https://twitter.com/TrustedSheriff)
