@@ -8,7 +8,7 @@ I love the design🖌️ too (Graphic design, web design). I regulary use Figma,
 
 * 💼 Last job experience — React front developer at [Wavlive](https://www.wavlive.com) <br/>
 * 📄 Download my [Curriculum Vitae](https://drive.google.com/file/d/1vx28wTmpTxg-vrYkg1mmtAAR6KfpRW4Z/view?usp=sharing)<br/>
-* 📫 Contact me [@ismael2m.pro](https://twitter.com/TrustedSheriff)<br/>
+* 📫 Reach me at [email](https://twitter.com/TrustedSheriff)<br/> or [Linkedin](https://www.linkedin.com/in/ismael-mmadi-dev/)
 * 🌎 My Personal website [ismaelmmadi.xyz](https://ismaelmmadi.xyz)
 
 <!--
