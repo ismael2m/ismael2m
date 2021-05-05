@@ -10,6 +10,12 @@
   <img align="left" alt="Baptiste Parville | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
+<br />
+
+
+Salut<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, je suis [Baptiste Parville](http://baptjack.fr/), un Développeur Full Stack 🚀 formé à l'école [O'clock](https://oclock.io/). <br />
+A côté du code, j'aime photographier la nature 🏞 et faire du skateboard 🛹.
+
 <!--
 **ismael2m/ismael2m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
