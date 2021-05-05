@@ -13,7 +13,7 @@
 <br />
 
 
-Hi everyone !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Ismaël Mmadi](http://baptjack.fr/), __Javascript web developer__ based in __Paris__. <br /> Basically, I'm more front-end oriented. I use <a href="https://reactjs.org/">React</a>
+Hi everyone !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Ismaël Mmadi](http://baptjack.fr/), __Javascript web developer__ based in __Paris__. <br /> Basically, I'm more front-end oriented. I use <a href="https://reactjs.org/">React JS</a> as JS library to code my projects.
 A côté du code, j'aime photographier la nature 🏞 et faire du skateboard 🛹.
 
 <!--
