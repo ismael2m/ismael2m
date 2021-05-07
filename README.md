@@ -1,4 +1,4 @@
-## Yo there ✌🏾
+## Hi there ✌🏾
 
 Hi everyone ! I'm Ismaël Mmadi, __Javascript web developer__ based in __Paris__.  
 
