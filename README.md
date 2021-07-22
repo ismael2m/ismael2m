@@ -6,8 +6,8 @@ Basically, I'm more front-end oriented. I use <a href="https://reactjs.org/" tar
 
 I love the design🖌️ too (Graphic design, web design). I regulary use Figma, Photoshop and Illustrator to design my projects. 
 
-* 📫 __OpenToWork__ : Reach me at [email](https://twitter.com/TrustedSheriff) or [Linkedin](https://www.linkedin.com/in/ismael-mmadi-dev/)<br/>
-* 💼 Last job experience — React front developer at [Wavlive](https://www.wavlive.com) <br/>
+<!-- * 📫 __OpenToWork__ : [email](https://twitter.com/TrustedSheriff) or [Linkedin](https://www.linkedin.com/in/ismael-mmadi-dev/)<br/> -->
+* 💼 Current job — React front developer at [Modis](https://www.modisfrance.fr/) <br/>
 <!--
 * 🌎 My Personal website [ismaelmmadi.xyz](https://ismaelmmadi.xyz)
 
