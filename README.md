@@ -2,9 +2,7 @@
 
 Hi everyone ! I'm Ismaël Mmadi, __Javascript/Typescript front-end web developer__ with significant experience in building web and mobile applications in __Agile Scrum environment__ 
 
-Basically, I'm more front-end oriented. I use <a href="https://reactjs.org/" target="_blank">React JS</a> as JS library to code my front/client-side projects. When i wanted to create more complexe projects (with databases etc...), I went to other side and i started to use <a href="https://nodejs.org/" target="_blank">Node JS</a>, <a href="https://expressjs.com/" target="_blank">Express</a> and <a href="https://reactjs.org/" target="_blank">Mongo DB</a>. Now, I use the <a href="https://www.mongodb.com/mern-stack" target="_blank">MERN Stack</a> and Next.JS to build my new full stack side projects. 
-
-I love the design🖌️ too (Graphic design, web design). I regulary use Figma, Photoshop and Illustrator to design my projects. 
+My skills include designing optimized interfaces for performance and user experience, solving complex problems, implementing modern development best practices and finally a UI/UX sensibility to facilitate collaboration with design teams.
 
 <!-- * 📫 __OpenToWork__ : [email](https://twitter.com/TrustedSheriff) or [Linkedin](https://www.linkedin.com/in/ismael-mmadi-dev/)<br/> -->
 * 💼 Current job — React front developer at [Akkodis](https://www.modisfrance.fr/) <br/>
