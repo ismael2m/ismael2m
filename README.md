@@ -5,7 +5,7 @@ Hi everyone ! I'm Ismaël Mmadi, __Javascript/Typescript front-end web developer
 My skills include designing optimized interfaces for performance and user experience, solving complex problems, implementing modern development best practices and finally a UI/UX sensibility to facilitate collaboration with design teams.
 
 <!-- * 📫 __OpenToWork__ : [email](https://twitter.com/TrustedSheriff) or [Linkedin](https://www.linkedin.com/in/ismael-mmadi-dev/)<br/> -->
-* 💼 Current job — React front developer at [Akkodis](https://www.modisfrance.fr/) <br/>
+<!-- * 💼 Current job — React front developer at [Akkodis](https://www.modisfrance.fr/) <br/> -->
 <!--
 * 🌎 My Personal website [ismaelmmadi.xyz](https://ismaelmmadi.xyz)
 
