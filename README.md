@@ -9,7 +9,7 @@ React Native remains my main ecosystem, while I also deepen my expertise in nati
 I integrate **AI-assisted development and agentic workflows** into my software development practices.
 
 <!-- * 📫 __OpenToWork__ : [email](https://twitter.com/TrustedSheriff) or [Linkedin](https://www.linkedin.com/in/ismael-mmadi-dev/)<br/> -->
-* 💼 Current job — React Native Mobile Engineer at [Ekino](https://www.ekino.fr/) <br/>
+* 💼 Current job — Senior React Native Mobile Engineer at [Ekino](https://www.ekino.fr/) <br/>
 <!--
 * 🌎 My Personal website [ismaelmmadi.xyz](https://ismaelmmadi.xyz)
 
