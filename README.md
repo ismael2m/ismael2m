@@ -1,10 +1,12 @@
 ## Hi there ✌🏾
 
-Hi everyone! I’m Ismaël Mmadi, a **React/React Native developer** with strong expertise in **Javascript and Typescript**, specializing in front-end web and mobile development. I have significant experience building high-quality applications in Agile Scrum environments.
+Hi, I’m **Ismaël Mmadi**, a Senior Mobile Engineer specializing in **React Native, React, and TypeScript**.
 
-As a React and React Native specialist, I focus on creating dynamic, performant, and scalable applications tailored for exceptional user experiences. My skill set includes designing optimized interfaces, solving complex problems, and implementing modern development best practices.
+I build scalable mobile applications with a strong focus on **architecture, performance, testing, and developer experience**.
 
-With a keen UI/UX sensibility, I bridge the gap between development and design teams, ensuring seamless collaboration and delivering polished, user-centric products.
+React Native remains my main ecosystem, while I also deepen my expertise in native mobile development on iOS **(Swift/SwiftUI)** and Android **(Kotlin/Jetpack Compose)**.
+
+I integrate **AI-assisted development and agentic workflows** into my software development practices.
 
 <!-- * 📫 __OpenToWork__ : [email](https://twitter.com/TrustedSheriff) or [Linkedin](https://www.linkedin.com/in/ismael-mmadi-dev/)<br/> -->
 * 💼 Current job — React Native Mobile Engineer at [Ekino](https://www.ekino.fr/) <br/>
